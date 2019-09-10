@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import { specials } from '../path/to/data';
+import { specials } from '../../../data';
 import { SpecialButton } from './SpecialButton';
 
 //import any components needed
