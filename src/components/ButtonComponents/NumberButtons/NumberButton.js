@@ -10,3 +10,5 @@ const NumberButton = (props) => {
     </button>
   );
 };
+
+export { NumberButton}
